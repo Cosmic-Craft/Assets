@@ -42,3 +42,7 @@ https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?
 
    * [`CosmicCraft-Logo`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/CosmicCraft-Logo.png)
    * [`CosmicCraft-Logo_Plain`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/CosmicCraft-Logo_Plain.png)
+
+     * [`Backgrounds`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds)
+
+       * [`Background-Cave`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Cave.jpeg) 
