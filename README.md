@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Cosmic-Craft/Assets/raw/branch/General/Images/CosmicCraft-Logo.png" alt="Cosmic Craft Logo" width="25%"/>
+<img src="https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?raw=true" alt="Cosmic Craft Logo" width="25%"/>
 </p>
 
 <h1 align="center">Cosmic Craft Assets</h1>
@@ -26,19 +26,19 @@
 To use an asset from the repository copy the link below and at the end enter the path to the asset you want.
 
 ```
-https://github.com/Cosmic-Craft/Assets
+https://github.com/Cosmic-Craft/Assets/tree/General
 ```
 
 For example below is the link to the logo for ***CosmicCraft***, when using images you have to right click the image and select **copy image address**
 
 ```
-https://github.com/Cosmic-Craft/Assets/raw/branch/General/Images/CosmicCraft-Logo.png
+https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?raw=true
 ```
 
 <a id="Assets"></a>
 ## Assets
 
- * [`Images`](https://github.com/Cosmic-Craft/Assets/src/branch/General/Images)
+ * [`Images`](https://github.com/Cosmic-Craft/Assets/tree/General/Images)
 
-   * [`CosmicCraft-Logo`](https://github.com/Cosmic-Craft/Assets/src/branch/General/Images/CosmicCraft-Logo.png)
-   * [`CosmicCraft-Logo_Plain`](https://github.com/Cosmic-Craft/Assets/src/branch/General/Images/CosmicCraft-Logo_Plain.png)
+   * [`CosmicCraft-Logo`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/CosmicCraft-Logo.png)
+   * [`CosmicCraft-Logo_Plain`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/CosmicCraft-Logo_Plain.png)
