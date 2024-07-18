@@ -42,7 +42,19 @@ https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?
 
    * [`CosmicCraft-Logo`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/CosmicCraft-Logo.png)
    * [`CosmicCraft-Logo_Plain`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/CosmicCraft-Logo_Plain.png)
+   * [`CosmicCraft-Banner`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/CosmicCraft-Banner.png)
 
      * [`Backgrounds`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds)
 
-       * [`Background-Cave`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Cave.jpeg) 
+       * [`Background-Cave`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Cave.jpeg)
+       * [`Background-City`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-City.jpeg)
+       * [`Background-Docks`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Docks.jpeg)
+       * [`Background-Forest`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Forest.jpeg)
+       * [`Background-Island`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Island.jpeg)
+       * [`Background-Lake`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Lake.jpeg)
+       * [`Background-Mountain`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Mountain.jpeg)
+       * [`Background-Ocean`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Ocean.jpeg)
+       * [`Background-Plains_Ocean`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Plains_Ocean.jpeg)
+       * [`Background-Plains_Village`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Plains_Village.jpeg)
+       * [`Background-Swamp`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Swamp.jpeg)
+       * [`Background-Town`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Town.jpeg)
