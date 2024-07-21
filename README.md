@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?raw=true" alt="Cosmic Craft Logo" width="25%"/>
+  <img src="https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?raw=true" alt="Cosmic Craft Logo" width="25%"/>
+  <h1 align="center">Cosmic Craft Assets</h1>
+  <p align="center">Assets to be used for the Cosmic Craft Network, hosted by <a href="https://github.com/Cosmic-Craft/CosmicHosting">Cosmic Hosting</a>.</p>
 </p>
-
-<h1 align="center">Cosmic Craft Assets</h1>
-<p align="center">Assets for the Cosmic Craft Network, hosted by <a href="https://github.com/Cosmic-Craft/CosmicHosting">Cosmic Hosting</a>.</p>
 
 <div align="center">
     <a href="https://discord.gg/jXA7cU8K"><img src="https://img.shields.io/discord/1164483117319454730?logo=discord" alt="Discord"/></a>
@@ -11,17 +10,22 @@
     <img src="https://img.shields.io/github/last-commit/Cosmic-Craft/Assets" alt="GitHub last commit"/>
     <img src="https://img.shields.io/github/commit-activity/w/Cosmic-Craft/Assets" alt="GitHub commit activity"/>
     <img src="https://img.shields.io/github/contributors/Cosmic-Craft/Assets" alt="GitHub contributors"/>
-    <!-- <img src="https://img.shields.io/github/languages/code-size/Jexactyl/Jexactyl" alt="GitHub code size in bytes"/>
-    <img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/Jexactyl/Jexactyl/badge?$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/> --->
+    <!--<br>
+    <img src="https://img.shields.io/github/languages/code-size/Cosmic-Craft/CosmicHosting" alt="GitHub code size in bytes"/>
+    <img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/Cosmic-Craft/Cosmichosting/badge?$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/> -->
 </div>
+
+<!-- Start -->
 
 ## Table of Contents:
 - [Usage](#Usage)
 - [Assets](#Assets)
+<br>
 
- <!-- headings -->
+>[!WARNING]
+>This project is still **Work In Progress**!
 
- <a id="Usage"></a>
+<a id="Usage"></a>
 ## Usage
 To use an asset from the repository copy the link below and at the end enter the path to the asset you want.
 
@@ -29,7 +33,7 @@ To use an asset from the repository copy the link below and at the end enter the
 https://github.com/Cosmic-Craft/Assets/tree/General
 ```
 
-For example below is the link to the logo for ***CosmicCraft***, when using images you have to right click the image and select **copy image address**
+For example below is the link to the logo for ***CosmicCraft***, when using images you have to right click the image and select **`copy image address`**.
 
 ```
 https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?raw=true
@@ -58,3 +62,14 @@ https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?
        * [`Background-Plains_Village`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Plains_Village.jpeg)
        * [`Background-Swamp`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Swamp.jpeg)
        * [`Background-Town`](https://github.com/Cosmic-Craft/Assets/tree/General/Images/Backgrounds/Background-Town.jpeg)
+
+<br>
+
+> [!NOTE]
+> Need <ins>**Support**</ins> using our products? reach out directly to our team members on [Discord](https://discord.gg/jXA7cU8K) and [Our Website](https://www.ashtontink.com/CosmicCraft/support) or you can email `suport@ashtontink.com`.
+<br>
+
+<p align="center">
+  <br>
+  <img src="https://github.com/Cosmic-Craft/Assets/blob/General/Images/CosmicCraft-Logo.png?raw=true" alt="CosmicCraft Logo" width="18%"/>
+</p>
